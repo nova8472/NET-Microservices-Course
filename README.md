@@ -1,6 +1,6 @@
 # .NET Microservices Course
 
-The source code of the .NET microservices course: https://www.youtube.com/watch?v=DgVjEo3OGBI
+The source code of the .NET microservices course https://www.youtube.com/watch?v=DgVjEo3OGBI written in .NET 7. 
 
 ## Core concepts explained and used: 
  - microservices
